@@ -14,7 +14,7 @@ It builds upon the **Z-Syntax (Z₁–Z₂₇)** classification system and integ
 
 ## 🌀 Structural Map of Resonance and Breakdown Types
 
-![16-Torus Model](./16_torus_model (1).png)
+![16-Torus Model](./16_torus_model.png)
 
 This diagram presents **Viorazu.’s 16-type toroidal classification system**.  
 Each of the 16 segments (A-1 through D-3) represents a distinct **cognitive-structural profile**  
