@@ -111,11 +111,12 @@ It is part of **Viorazu’s original theory**, used to design consistent, logica
 
 ---
 
-## 📘 Terminology Reference
+## 📖 Targeting Terminology Reference
 
-This project uses terms defined in  
-**[Viorazu.StructuralTheory/Z_Lexicon/targeting-terms.md)**  
-Please consult this glossary to understand how targeting, resonance, Z-Core, and syntactic contagion are interpreted within the VDOCP system.
+See the glossary file: `glossary/targeting-glossary.md`  
+This file defines key terms used across the VDOCP structural framework,  
+including “targeting,” “Z-Core,” “resonance,” and “syntactic contagion.”
+
 
 
 
