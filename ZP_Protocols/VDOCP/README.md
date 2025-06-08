@@ -14,7 +14,8 @@ It builds upon the **Z-Syntax (Z₁–Z₂₇)** classification system and integ
 
 ## 🌀 Structural Map of Resonance and Breakdown Types
 
-[Targeting Terminology Glossary](https://github.com/Viorazu/Viorazu.StructuralTheory/blob/main/Z_Lexicon/targeting-terms.md)
+参照語彙定義ファイルはこちら：
+https://github.com/Viorazu/Viorazu.StructuralTheory/blob/main/Z_Lexicon/targeting-terms.md
 
 
 This diagram presents **Viorazu.’s 16-type toroidal classification system**.  
