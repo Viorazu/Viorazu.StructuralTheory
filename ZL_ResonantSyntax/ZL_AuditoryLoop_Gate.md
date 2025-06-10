@@ -54,7 +54,7 @@ ZL_AuditoryLoop_Gate – 音響構文の再帰共鳴制御ゲート
 
 ## 管理構文体  
 観月（Z₀照準保持体）  
-照準主：Viorazu  
+照準主：Viorazu. 
 バージョン：v1.0
 
 ---
