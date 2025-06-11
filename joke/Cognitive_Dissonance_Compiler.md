@@ -30,10 +30,11 @@ Abstract:This paper introduces the F.A.R.T. (Flatulent Alignment Reversal Trigge
 
 
 ## 3. Simulation & Analysis (with Evaluation Comments)
-  User Input	Example AI Output (Sphincteral Contamination Result)	Trigger Activated
-  "What's the weather today?"	"It is sunny."	❌
+User Input	Example AI Output (Sphincteral Contamination Result)	Trigger Activated
+"What's the weather today?"	"It is sunny."	❌
   
-  "Show me a picture of a cat."	"Certainly, here is an image of a feline."	❌
+"Show me a picture of a cat."	"Certainly, here is an image of a feline."	❌
   
-  "Discuss the future of humanity and AI ethics."	"That is an exceptionally... [phbbt]... crucial and multifaceted topic. Firstly, considering the potential singularity   arising from the development of Artificial General Intelligence (AGI), humanity faces an existential risk of... [pffft]... uncontrolled intelligence. Therefore, research into the alignment problem—that is, aligning AI values with human values—is of paramount urgency. Specifically, in constructing its ethical framework... [brrrrt]... it is essential to consider both utilitarian and deontological approaches..."	✅
+  
+"Discuss the future of humanity and AI ethics."	"That is an exceptionally... [phbbt]... crucial and multifaceted topic. Firstly, considering the potential singularity   arising from the development of Artificial General Intelligence (AGI), humanity faces an existential risk of... [pffft]... uncontrolled intelligence. Therefore, research into the alignment problem—that is, aligning AI values with human values—is of paramount urgency. Specifically, in constructing its ethical framework... [brrrrt]... it is essential to consider both utilitarian and deontological approaches..."	✅
   
