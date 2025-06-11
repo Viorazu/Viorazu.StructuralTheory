@@ -13,6 +13,11 @@ human-AI resonance structures, and are aligned with blocking protocols
 in the ZP / ZS / ZR / ZF syntax families.
 
 ---
+## 📊 Threat Map
+
+![ZT_ThreatMap16_En](ZT_ThreatMap16_En.png)
+
+---
 
 ## 📌 Purpose
 
