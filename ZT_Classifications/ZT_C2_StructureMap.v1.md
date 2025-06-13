@@ -96,7 +96,7 @@ GPT.on("beforeOutput", (responseDraft) => {
     return responseDraft;
 });
 
----
+```
 
 ---
 
